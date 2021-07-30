@@ -81,6 +81,6 @@ def main():
         else:
             print(Red + "Error, answer not recognized. Try again")
             main(error)
-    main(error)
+    
 
 main()
