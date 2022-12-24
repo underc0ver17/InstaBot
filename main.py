@@ -1,3 +1,4 @@
+import requirenments.txt
 import argparse
 
 from instabot import Bot
